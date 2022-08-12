@@ -14,4 +14,4 @@
 
 <p>  • This project is completely screen responsive, with the form appearing at top of the screen for user's convenience. </p>
 
-<p>  • The link to view a video demo of this project is : <a href="https://www.youtube.com/watch?v=EeVS_Avp_WA&ab_channel=AnirudhKadian"> Memory app video demo </a> </p>
+<p>  • The link to view a video demo of this project is : <a href="https://youtu.be/9ZS_bt-kNHA"> Memory app video demo </a> </p>

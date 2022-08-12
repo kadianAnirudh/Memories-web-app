@@ -8,7 +8,7 @@
 
 <p>  • This is a full stack MERN application where cards are created for every memory that you pass through the input form. </p>
 
-<p>  • The data is stored in Mongo DB, a map funtion runs for the array of data, creating a memory card for each object stored. </p>
+<p>  • The data is stored in Mongo DB, a map function runs for the array of data, creating a memory card for each object stored. </p>
 
 <p>  • This is a CRUD based application where you can edit and delete the memory cards according to your choice. </p>
 
